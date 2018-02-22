@@ -1,0 +1,11 @@
+ Volume in drive S is New Volume
+ Volume Serial Number is 4827-863B
+
+ Directory of S:\GitProject
+
+02/22/2018  02:04 PM    <DIR>          .
+02/22/2018  02:04 PM    <DIR>          ..
+02/22/2018  02:00 PM    <DIR>          .git
+02/22/2018  02:04 PM                 0 test.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  373,707,653,120 bytes free
